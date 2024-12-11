@@ -4,16 +4,16 @@
 「iOS 大陆用户下载教程」  
 https://www.appid666.com
 
-「iOS_App Store」
+「iOS_App Store」  
 https://www.12nuts.cc/zh/tutorials/exchange
 
-「Android_apk」
+「Android_apk」  
 https://www.12nuts.cc/api/download/android
 
-「Windows_exe」
+「Windows_exe」  
 https://www.12nuts.cc/api/download/pc
 
-「坚果VPN官网」
+「坚果VPN官网」  
 https://www.12nuts.cc/zh
 
 ———————————————————————   
