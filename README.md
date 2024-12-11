@@ -8,13 +8,10 @@ https://www.appid666.com
 https://www.12nuts.cc/zh/tutorials/exchange
 
 「Android_apk」
-https://XXXXXXX
+https://www.12nuts.cc/api/download/android
 
 「Windows_exe」
-https://XXXXXXX
-
-「MacOS_dmg」
-https://XXXXXXX
+https://www.12nuts.cc/api/download/pc
 
 「坚果VPN官网」
 https://www.12nuts.cc/zh
